@@ -1,4 +1,5 @@
 <img width="692" height="302" alt="image" src="https://github.com/user-attachments/assets/726d54e9-edce-4926-93b0-f1fd67e7a408" />
+
 # 📄 n8n PDF Text Extraction Workflow 🚀
 
 Easily extract text and structured data from PDF documents using **n8n**, **Document Extraction**, and **Multimodal AI**.  
